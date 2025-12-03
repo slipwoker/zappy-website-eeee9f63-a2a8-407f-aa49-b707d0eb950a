@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const phoneHeaderBtn = document.querySelector('.phone-header-btn'); 
   if (phoneHeaderBtn) { 
     phoneHeaderBtn.addEventListener('click', function() { 
-      const phoneNumber = '+972548299093'; 
+      const phoneNumber = '[business_phone]'; 
       window.location.href = 'tel:' + phoneNumber; 
     }); 
   } 
