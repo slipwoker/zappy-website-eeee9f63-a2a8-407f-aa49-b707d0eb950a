@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vision-plus-eeee9f63.zappy5.app/sitemap.xml
